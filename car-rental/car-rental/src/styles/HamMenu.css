@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.drop-text {
+  color: #fff;
+  background-color: #000d6b;
+}
+.offcanvas {
+  background-color: #fff;
+}
+.super-colors {
+  background: #000d6b !important;
+  background-color: #000d6b !important;
+  border: #000d6b !important;
+}
+
+.nohover {
+  color: black !important;
+}
